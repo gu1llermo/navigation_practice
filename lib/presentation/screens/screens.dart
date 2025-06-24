@@ -14,3 +14,7 @@ export 'package:navigation_practice/presentation/screens/gradientes/gradientes_s
 export 'transforms/transforms_animation_screen.dart';
 export 'transforms/transform_01.dart';
 export 'transforms/transform_02.dart';
+export 'tween_animation/tween_animation_screen.dart';
+export 'tween_animation/tween_animation_01.dart';
+export 'tween_animation/tween_animation_02.dart';
+export 'tween_animation/tween_animation_03.dart';

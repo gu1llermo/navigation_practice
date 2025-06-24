@@ -16,6 +16,11 @@ class MenuItem {
 
 final menuItems = <MenuItem>[
   MenuItem(
+      title: 'Tween Animations',
+      subtitle: 'Tween Animations Screen',
+      link: TweenAnimationScreen.path,
+      icon: Icons.animation),
+  MenuItem(
       title: 'Cuadrados',
       subtitle: 'probando arreglo de cuadrados',
       link: CuadradosScreen.path,
